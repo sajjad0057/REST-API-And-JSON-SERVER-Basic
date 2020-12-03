@@ -1,0 +1,21 @@
+{
+  "dishes": [
+    {
+      "id": 0,
+      "name": "Burger",
+      "price": 199
+    },
+    {
+      "id": 1,
+      "name": "Fride Rice",
+      "price": 140
+    },
+    {
+      "name": "cheese cake",
+      "price": "99",
+      "id": 2
+    }
+  ],
+  "comments": [],
+  "feedback": []
+}
